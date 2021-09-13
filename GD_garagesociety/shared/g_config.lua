@@ -44,7 +44,7 @@ config.thegarage = {
         PosSpawn = vector3(312.08, -1447.74, 29.97), 
         HedSpawn = 229.67
     },
-    --[[{
+    {
         label = "L.S.P.D",
         society = "police",
         name = "s_m_m_security_01",
@@ -54,8 +54,8 @@ config.thegarage = {
         posh = 153.06,
         PosSpawn = vector3(458.40, -993.46, 25.70), 
         HedSpawn = 229.67
-    },]]--
-    --[[{
+    },
+    {
         label = "F.B.I",
         society = "fbi",
         name = "s_m_m_security_01",
@@ -65,8 +65,8 @@ config.thegarage = {
         posh = 73.02,
         PosSpawn = vector3(55.23, -751.35, 44.22), 
         HedSpawn = 339.24
-    },]]--
-    --[[{
+    },
+    {
         label = "Benny's",
         society = "mecano",
         name = "s_m_m_security_01",
@@ -76,7 +76,7 @@ config.thegarage = {
         posh = 201.67,
         PosSpawn = vector3(-167.87, -1299.98, 31.05), 
         HedSpawn = 92.03
-    },]]--
+    },
 }
 
 config.haveESXVehicleLock = false
